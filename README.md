@@ -1,6 +1,6 @@
 ### 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsocle&count_bg=%23BF3DC8&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEsocle&count_bg=%23BF3DC8&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=%F0%9F%92%98+%EB%B0%A9%EB%AC%B8&edge_flat=false)](https://hits.seeyoufarm.com)
 
 📫 shbae1207@gmail.com
 
