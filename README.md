@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esocle&show_icons=true&theme=tokyonight)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={shbae1207})](https://solved.ac/{shbae1207})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=shbae1207)](https://solved.ac/shbae1207)
