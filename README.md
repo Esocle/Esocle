@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=shbae1207)](https://solved.ac/shbae1207)
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=shbae1207)](https://solved.ac/shbae1207)
