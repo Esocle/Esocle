@@ -1,6 +1,6 @@
 ### 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=400)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=300)
 
 📫 shbae1207@gmail.com
 #
