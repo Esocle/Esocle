@@ -7,7 +7,7 @@ shbae1207@gmail.com
 #
 💻skill </br>
 
-<img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black">
+<img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=black">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esocle&show_icons=true&theme=buefy)
