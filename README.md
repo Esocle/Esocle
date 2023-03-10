@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&text=Welcome!&height=300)
 
-📧Email📧
+📧Email📧</br>
 shbae1207@gmail.com
 #
 <!--
