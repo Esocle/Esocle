@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></br>
+
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esocle&show_icons=true&theme=buefy)
