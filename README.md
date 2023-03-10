@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&text=Welcome!&height=300)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&text=Welcome!&height=300)
 
 📫 shbae1207@gmail.com
 #
