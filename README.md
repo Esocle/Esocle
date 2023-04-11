@@ -4,7 +4,6 @@
   
 </div>
 
-  
 <div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&text=Seohyeong&nbsp;Github!&height=300)
