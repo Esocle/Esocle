@@ -34,11 +34,13 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></br>
 
+
+<!--
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esocle&show_icons=true&theme=buefy)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=shbae1207)](https://solved.ac/shbae1207)
-</div>
+</div> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=buefy) -->
 
